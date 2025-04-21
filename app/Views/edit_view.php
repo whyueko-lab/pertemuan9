@@ -1,31 +1,34 @@
 <div class="container p-5">
-    <a href="<?= base_url('barang');?>" class="btn btn-primary mb-2">Kembali</a>
+    <a href="<?= base_url('data-diri');?>" class="btn btn-primary mb-2">Kembali</a>
     <div class="card">
         <div class="card-header bg-info text-white">
-            <h4 class="card-title">Edit Barang : <?= $barang->nama_barang;?></h4>
+            <h4 class="card-title">Edit Data Diri : <?= $data_diri->nama;?></h4>
         </div>
         <div class="card-body">
-            <form method="post" action="<?= base_url(relativePath: 'barang/update');?>">
+            <form method="post" action="<?= base_url('data-diri/update');?>">
                 <div class="form-group">
-                    <label for="">Nama Barang</label>
-                    <input type="text" value="<?= $barang->nama_barang;?>" name="nama" required class="form-control">
-                </div> 
-                <div class="form-group">
-                    <label for="">Qty</label>
-                    <input type="number" value="<?= $barang->qty;?>" name="qty" required class="form-control">
+                    <label for="">Nama</label>
+                    <input type="text" value="<?= $data_diri->nama;?>" name="nama" required class="form-control">
                 </div>
                 <div class="form-group">
-                    <label for="">Harga Beli</label>
-                    <input type="number" value="<?= $barang->harga_beli;?>" name="beli" required class="form-control">
+                    <label for="">Jurusan</label>
+                    <input type="text" value="<?= $data_diri->jurusan;?>" name="jurusan" required class="form-control">
                 </div>
                 <div class="form-group">
-                    <label for="">Harga Jual</label>
-                    <input type="number" value="<?= $barang->harga_jual;?>" name="jual" required class="form-control">
+                    <label for="">Keahlian</label>
+                    <input type="text" value="<?= $data_diri->keahlian;?>" name="keahlian" required class="form-control">
                 </div>
-                <input type="hidden" value="<?= $barang->id_barang;?>" name="id_barang">
+                <div class="form-group">
+                    <label for="">Alamat</label>
+                    <input type="text" value="<?= $data_diri->alamat;?>" name="alamat" required class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="">Nomor Telepon</label>
+                    <input type="text" value="<?= $data_diri->nomor_telepon;?>" name="nomor_telepon" required class="form-control">
+                </div>
+                <input type="hidden" value="<?= $data_diri->id_data_diri;?>" name="id_data_diri">
                 <button class="btn btn-primary">Edit Data</button>
             </form>
-            
         </div>
     </div>
 </div>

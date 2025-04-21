@@ -1,26 +1,30 @@
 <div class="container p-5">
-    <a href="<?= base_url(relativePath: 'barang');?>" class="btn btn-secondary mb-2">Kembali</a>
+    <a href="<?= base_url('data-diri');?>" class="btn btn-secondary mb-2">Kembali</a>
     <div class="card">
         <div class="card-header bg-info text-white">
-            <h4 class="card-title">Tambah Data Barang</h4>
+            <h4 class="card-title">Tambah Data Diri</h4>
         </div>
         <div class="card-body">
-            <form method="post" action="<?= base_url(relativePath: 'barang/add');?>">
+            <form method="post" action="<?= base_url('data-diri/add');?>">
                 <div class="form-group">
-                    <label for="">Nama Barang</label>
+                    <label for="">Nama</label>
                     <input type="text" name="nama" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label for="">Qty</label>
-                    <input type="number" name="qty" class="form-control" required>
+                    <label for="">Jurusan</label>
+                    <input type="text" name="jurusan" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label for="">Harga Beli</label>
-                    <input type="number" name="beli" class="form-control" required>
+                    <label for="">Keahlian</label>
+                    <input type="text" name="keahlian" class="form-control" required>
                 </div>
                 <div class="form-group">
-                    <label for="">Harga Jual</label>
-                    <input type="number" name="jual" class="form-control" required>
+                    <label for="">Alamat</label>
+                    <input type="text" name="alamat" class="form-control" required>
+                </div>
+                <div class="form-group">
+                    <label for="">Nomor Telepon</label>
+                    <input type="text" name="nomor_telepon" class="form-control" required>
                 </div>
                 <button class="btn btn-success">Tambah Data</button>
             </form>
