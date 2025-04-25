@@ -124,3 +124,233 @@ in SYSTEMPATH\Model.php on line 930.
  6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
  7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
  8 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:30:42 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:07 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:07 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:08 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:08 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:42 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:42 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:42 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:43 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:43 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:43 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:43 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:45 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:45 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:31:45 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:32:44 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')
+CRITICAL - 2025-04-21 15:32:45 --> Error: Class "App\Models\DataDiri_model" not found
+[Method: GET, Route: data-diri/]
+in APPPATH\Controllers\DataDiri.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\DataDiri->index()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DataDiri))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ 7 SYSTEMPATH\rewrite.php(44): require_once('C:\\xampp\\htdocs\\ci_wahyu\\public\\index.php')

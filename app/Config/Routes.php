@@ -7,16 +7,14 @@ use CodeIgniter\Router\RouteCollection;
  * contoh untuk pembuatan route
  */
 
-// Home Barang
-$routes->get(from: 'barang', to: 'Barang::index');
-// Halaman Tambah
-$routes->get(from: 'barang/tambah', to: 'Barang::tambah');
-// Halaman Edit
-$routes->get(from: 'barang/edit/(:any)', to: 'Barang::edit/$1');
-// Proses CRUD
-// Insert
-$routes->post(from: 'barang/add', to: 'Barang::add');
-// Update
-$routes->post(from: 'barang/update', to: 'Barang::update');
-// Hapus
-$routes->get(from: 'barang/hapus/(:any)', to: 'Barang::hapus/$1');
+// Tampilkan semua data
+$routes->get('/biodata', 'Biodata::index');
+
+// Tampilkan form tambah data
+$routes->get('/biodata/tambah', 'Biodata::tambah');
+
+// Proses simpan data (via POST)
+$routes->post('/biodata/simpan', 'Biodata::simpan');
+$routes->get('biodata/edit/(:num)', 'Biodata::edit/$1');
+$routes->post('biodata/update/(:num)', 'Biodata::update/$1');
+$routes->get('biodata/hapus/(:num)', 'Biodata::hapus/$1');
