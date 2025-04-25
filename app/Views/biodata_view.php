@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Data Biodata</title>
+    <title>DATA BIODATA</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -69,7 +69,8 @@
 </head>
 <body>
     <div class="container">
-        <h2>Data Biodata</h2>
+        <h2>DATA KEAHLIAN UNIVERSITAS DIAN NUSANTARA</h2>
+        <h3>By : Wahyu Eko Suroso</h3>
         <a class="button" href="<?= site_url('biodata/tambah') ?>">+ Tambah Data</a>
         <table>
             <tr>
