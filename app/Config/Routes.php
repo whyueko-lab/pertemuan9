@@ -59,3 +59,14 @@ $routes->group('siswa', function ($routes) {
     $routes->put('update/(:num)', 'Siswa::update/$1');
     $routes->delete('delete/(:num)', 'Siswa::delete/$1');
 });
+
+// Mahasiswa Routes
+$routes->group('mahasiswa', function ($routes) {
+    $routes->get('/', 'Mahasiswa::index');
+    $routes->get('create', 'Mahasiswa::create');
+    $routes->post('store', 'Mahasiswa::store');
+    $routes->get('(:num)', 'Mahasiswa::show/$1');
+    $routes->get('edit/(:num)', 'Mahasiswa::edit/$1');
+    $routes->put('update/(:num)', 'Mahasiswa::update/$1');
+    $routes->delete('delete/(:num)', 'Mahasiswa::delete/$1');
+});

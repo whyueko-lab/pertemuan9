@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?= $title ?? 'Aplikasi Nilai Siswa' ?></title>
+    <title><?= $title ?? 'Aplikasi Nilai mahasiswa' ?></title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
@@ -12,7 +12,7 @@
     <nav class="bg-blue-600 text-white shadow-lg">
         <div class="container mx-auto px-4 py-3">
             <div class="flex justify-between items-center">
-                <a href="<?= site_url('/siswa') ?>" class="text-xl font-bold">Aplikasi Nilai Siswa</a>
+                <a href="<?= site_url('/mahasiswa') ?>" class="text-xl font-bold">Aplikasi Nilai mahasiswa</a>
             </div>
         </div>
     </nav>
